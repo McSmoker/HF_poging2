@@ -175,3 +175,4 @@ L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Fes
 L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.csproj.CoreCompileInputs.cache
 L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.dll
 L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.pdb
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.csprojResolveAssemblyReference.cache
