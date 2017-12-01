@@ -116,3 +116,62 @@ H:\My Documents\GitHub\HF_poging2\Haarlem Festival\obj\Debug\Haarlem_Festival.Mi
 H:\My Documents\GitHub\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.csproj.GenerateResource.Cache
 H:\My Documents\GitHub\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.dll
 H:\My Documents\GitHub\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.pdb
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Haarlem Festival.dll.config
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Haarlem Festival.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Haarlem Festival.pdb
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Antlr3.Runtime.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\EntityFramework.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\EntityFramework.SqlServer.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Google.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Web.Infrastructure.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Newtonsoft.Json.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Owin.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Helpers.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Mvc.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Optimization.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Razor.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.WebPages.Deployment.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.WebPages.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.WebPages.Razor.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\WebGrease.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Helpers.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Mvc.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Optimization.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.Razor.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.WebPages.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.WebPages.Deployment.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\System.Web.WebPages.Razor.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Newtonsoft.Json.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Antlr3.Runtime.pdb
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\EntityFramework.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\EntityFramework.SqlServer.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Google.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.InitialCreate.resources
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.Migration20171123t1307.resources
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.Migration20171123t1315.resources
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.csproj.GenerateResource.Cache
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.csproj.CoreCompileInputs.cache
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.pdb

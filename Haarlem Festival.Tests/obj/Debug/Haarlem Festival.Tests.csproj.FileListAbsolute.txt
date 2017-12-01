@@ -1,0 +1,35 @@
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.Tests.dll.config
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.Tests.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.Tests.pdb
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Newtonsoft.Json.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\System.Web.Optimization.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Owin.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\EntityFramework.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.pdb
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.dll.config
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\System.Web.Optimization.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\EntityFramework.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.csprojResolveAssemblyReference.cache
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.csproj.CoreCompileInputs.cache
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.pdb
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\EntityFramework.SqlServer.dll
+L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\EntityFramework.SqlServer.xml
