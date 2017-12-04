@@ -12,6 +12,13 @@ namespace Haarlem_Festival.Models
     {
         public string SpeakerOneName { get; set; }
         public string SpeakerTwoName { get; set; }
+        public string SpeakerOneInfo { get; set; }
+        public string SpeakerTwoInfo { get; set; }
+
+        public Talking()
+        {
+
+        }
 
         public Talking(int eventId, DateTime eventStart, DateTime eventEnd, string location, int seats, int ticketsSold, string speakerOneName, string speakerTwoName)
             : base(eventId, eventStart, eventEnd, location, seats, ticketsSold)

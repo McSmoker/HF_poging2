@@ -12,6 +12,12 @@ namespace Haarlem_Festival.Models
     {
         public string Artist { get; set; }
         public string Hall { get; set; }
+        public string ArtistInfo { get; set; }
+
+        public Jazz()
+        {
+
+        }
 
         public Jazz(int eventId, DateTime eventStart, DateTime eventEnd, string location, int seats, int ticketsSold, string artist, string hall)
             : base(eventId, eventStart, eventEnd, location, seats, ticketsSold)
