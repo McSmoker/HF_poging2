@@ -235,3 +235,62 @@ C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem_Festi
 C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.csproj.GenerateResource.Cache
 C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.dll
 C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.pdb
+D:\Project HF\Haarlem Festival\obj\Debug\Haarlem Festival.csprojResolveAssemblyReference.cache
+D:\Project HF\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.InitialCreate.resources
+D:\Project HF\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.Migration20171123t1307.resources
+D:\Project HF\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.Migration20171123t1315.resources
+D:\Project HF\Haarlem Festival\obj\Debug\Haarlem Festival.csproj.GenerateResource.Cache
+D:\Project HF\Haarlem Festival\obj\Debug\Haarlem Festival.dll
+D:\Project HF\Haarlem Festival\obj\Debug\Haarlem Festival.pdb
+D:\Project HF\Haarlem Festival\bin\Haarlem Festival.dll.config
+D:\Project HF\Haarlem Festival\bin\Haarlem Festival.dll
+D:\Project HF\Haarlem Festival\bin\Haarlem Festival.pdb
+D:\Project HF\Haarlem Festival\bin\Antlr3.Runtime.dll
+D:\Project HF\Haarlem Festival\bin\EntityFramework.dll
+D:\Project HF\Haarlem Festival\bin\EntityFramework.SqlServer.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Google.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project HF\Haarlem Festival\bin\Microsoft.Web.Infrastructure.dll
+D:\Project HF\Haarlem Festival\bin\Newtonsoft.Json.dll
+D:\Project HF\Haarlem Festival\bin\Owin.dll
+D:\Project HF\Haarlem Festival\bin\System.Web.Helpers.dll
+D:\Project HF\Haarlem Festival\bin\System.Web.Mvc.dll
+D:\Project HF\Haarlem Festival\bin\System.Web.Optimization.dll
+D:\Project HF\Haarlem Festival\bin\System.Web.Razor.dll
+D:\Project HF\Haarlem Festival\bin\System.Web.WebPages.Deployment.dll
+D:\Project HF\Haarlem Festival\bin\System.Web.WebPages.dll
+D:\Project HF\Haarlem Festival\bin\System.Web.WebPages.Razor.dll
+D:\Project HF\Haarlem Festival\bin\WebGrease.dll
+D:\Project HF\Haarlem Festival\bin\EntityFramework.xml
+D:\Project HF\Haarlem Festival\bin\EntityFramework.SqlServer.xml
+D:\Project HF\Haarlem Festival\bin\System.Web.Helpers.xml
+D:\Project HF\Haarlem Festival\bin\System.Web.Mvc.xml
+D:\Project HF\Haarlem Festival\bin\System.Web.Optimization.xml
+D:\Project HF\Haarlem Festival\bin\System.Web.Razor.xml
+D:\Project HF\Haarlem Festival\bin\System.Web.WebPages.xml
+D:\Project HF\Haarlem Festival\bin\System.Web.WebPages.Deployment.xml
+D:\Project HF\Haarlem Festival\bin\System.Web.WebPages.Razor.xml
+D:\Project HF\Haarlem Festival\bin\Newtonsoft.Json.xml
+D:\Project HF\Haarlem Festival\bin\Antlr3.Runtime.pdb
+D:\Project HF\Haarlem Festival\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Google.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project HF\Haarlem Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.xml

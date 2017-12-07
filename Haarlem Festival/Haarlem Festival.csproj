@@ -179,12 +179,14 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\EnumOrderStatus.cs" />
     <Compile Include="Models\EnumTicketType.cs" />
     <Compile Include="Models\Event.cs" />
     <Compile Include="Models\HaarlemFestivalDB.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\Jazz.cs" />
     <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\Performer.cs" />
     <Compile Include="Models\SiteContent.cs" />
     <Compile Include="Models\Talking.cs" />
     <Compile Include="Models\OrderItem.cs" />
@@ -238,6 +240,11 @@
     <Content Include="Views\Account\Manage.cshtml" />
     <Content Include="Views\Account\Register.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Event\Create.cshtml" />
+    <Content Include="Views\Event\Delete.cshtml" />
+    <Content Include="Views\Event\Details.cshtml" />
+    <Content Include="Views\Event\Edit.cshtml" />
+    <Content Include="Views\Event\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
