@@ -235,7 +235,6 @@ C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem_Festi
 C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.csproj.GenerateResource.Cache
 C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.dll
 C:\Users\585708\Source\Repos\HF_poging2\Haarlem Festival\obj\Debug\Haarlem Festival.pdb
-D:\Project HF\Haarlem Festival\obj\Debug\Haarlem Festival.csprojResolveAssemblyReference.cache
 D:\Project HF\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.InitialCreate.resources
 D:\Project HF\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.Migration20171123t1307.resources
 D:\Project HF\Haarlem Festival\obj\Debug\Haarlem_Festival.Migrations.Migration20171123t1315.resources

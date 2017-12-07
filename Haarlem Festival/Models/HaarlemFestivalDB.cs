@@ -27,6 +27,8 @@ namespace Haarlem_Festival.Models
 
         public System.Data.Entity.DbSet<Haarlem_Festival.Models.Volunteer> Volunteers { get; set; }
 
+        public System.Data.Entity.DbSet<Haarlem_Festival.Models.Performer> Performer { get; set; }
+
         public System.Data.Entity.DbSet<Haarlem_Festival.Models.Order> Orders { get; set; }
 
         public System.Data.Entity.DbSet<Haarlem_Festival.Models.OrderItem> OrderItems { get; set; }
