@@ -33,3 +33,37 @@ L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\obj\Debug\Haarl
 L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.pdb
 L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\EntityFramework.SqlServer.dll
 L:\Haarlem Festival Repository\HF_poging2\Haarlem Festival.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.Tests.dll.config
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.Tests.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.Tests.pdb
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\EntityFramework.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Owin.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Haarlem Festival.pdb
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\EntityFramework.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project HF\Haarlem Festival.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Project HF\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.csprojResolveAssemblyReference.cache
+D:\Project HF\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.dll
+D:\Project HF\Haarlem Festival.Tests\obj\Debug\Haarlem Festival.Tests.pdb

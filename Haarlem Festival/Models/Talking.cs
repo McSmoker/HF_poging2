@@ -10,14 +10,19 @@ namespace Haarlem_Festival.Models
     [Table("Talking")]
     public class Talking : Event
     {
-        public string SpeakerOneName { get; set; }
-        public string SpeakerTwoName { get; set; }
+        public Performer SpeakerOne { get; set; }
+        public Performer SpeakerTwo { get; set; }
 
-        public Talking(int eventId, DateTime eventStart, DateTime eventEnd, string location, int seats, int ticketsSold, string speakerOneName, string speakerTwoName)
+        public Talking()
+        {
+
+        }
+
+        public Talking(int eventId, DateTime eventStart, DateTime eventEnd, string location, int seats, int ticketsSold, Performer SpeakerOne, Performer SpeakerTwo)
             : base(eventId, eventStart, eventEnd, location, seats, ticketsSold)
         {
-            this.SpeakerOneName = speakerOneName;
-            this.SpeakerTwoName = speakerTwoName;
         }
+
+
     }
 }
